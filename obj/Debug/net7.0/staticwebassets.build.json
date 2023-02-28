@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y46a+lh8Vn94YbBryYyHPkEF9F4YIyURrRIkfxmAvh4=",
+  "Source": "ssoapi",
+  "BasePath": "_content/ssoapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

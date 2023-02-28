@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fH9jX4Yqs/7luGe3QqGWRG2jZ1HeCnogsp+s4lslYacf8H32TpeNM+uxQSktJpzn7QSXJ/gZOVOoVb706QODqg==",
+  "dgSpecHash": "AYQVginAzp5CjrVhrl1bMELEoLMHOOOVdn4c2mqiM2kXzdmyzN46bMVJ0lcaIzFf5pmcIolLt96mxzDH73sq+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ebbah\\Dropbox\\WEBBUTVECKLING-PROGRAMMET\\Kod\\Webbutveckling med .NET\\ssoapi\\ssoapi.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\ebbah\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.3\\microsoft.entityframeworkcore.sqlite.7.0.3.nupkg.sha512",
     "C:\\Users\\ebbah\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.3\\microsoft.entityframeworkcore.sqlite.core.7.0.3.nupkg.sha512",
     "C:\\Users\\ebbah\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.3\\microsoft.entityframeworkcore.sqlserver.7.0.3.nupkg.sha512",
+    "C:\\Users\\ebbah\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.3\\microsoft.entityframeworkcore.tools.7.0.3.nupkg.sha512",
     "C:\\Users\\ebbah\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ebbah\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ebbah\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
